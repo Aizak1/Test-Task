@@ -1,0 +1,13 @@
+D:\c#projects\Like\bin\Debug\netcoreapp3.1\Like.exe
+D:\c#projects\Like\bin\Debug\netcoreapp3.1\Like.deps.json
+D:\c#projects\Like\bin\Debug\netcoreapp3.1\Like.runtimeconfig.json
+D:\c#projects\Like\bin\Debug\netcoreapp3.1\Like.runtimeconfig.dev.json
+D:\c#projects\Like\bin\Debug\netcoreapp3.1\Like.dll
+D:\c#projects\Like\bin\Debug\netcoreapp3.1\Like.pdb
+D:\c#projects\Like\obj\Debug\netcoreapp3.1\Like.csprojAssemblyReference.cache
+D:\c#projects\Like\obj\Debug\netcoreapp3.1\Like.csproj.CoreCompileInputs.cache
+D:\c#projects\Like\obj\Debug\netcoreapp3.1\Like.AssemblyInfoInputs.cache
+D:\c#projects\Like\obj\Debug\netcoreapp3.1\Like.AssemblyInfo.cs
+D:\c#projects\Like\obj\Debug\netcoreapp3.1\Like.dll
+D:\c#projects\Like\obj\Debug\netcoreapp3.1\Like.pdb
+D:\c#projects\Like\obj\Debug\netcoreapp3.1\Like.genruntimeconfig.cache
